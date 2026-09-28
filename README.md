@@ -30,12 +30,12 @@ All solutions are implemented in Python 3.
 ### 2. Dynamic Array
 - HackerRank: Accepted
 - Solution: [View Code](./Dynamic-Array/solution.py)
-- Screenshot: `hackerrank-accepted.png`
+- Screenshot: `Dynamic array.png`
 
 ### 3. Time Conversion
 - HackerRank: Accepted
 - Solution: [View Code](./Time-Conversion/solution.py)
-- Screenshot: `hackerrank-accepted.png`
+- Screenshot: `Time-.png`
 
 ### 4. Compare the Triplets
 - HackerRank: Accepted
