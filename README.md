@@ -25,7 +25,7 @@ All solutions are implemented in Python 3.
 ### 1. Diagonal Difference
 - HackerRank: Accepted
 - Solution: [View Code](./Diagonal-Difference/solution.py)
-- Screenshot: `hackerrank-accepted.png`
+- Screenshot: `Diagonal difference.png`
 
 ### 2. Dynamic Array
 - HackerRank: Accepted
