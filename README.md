@@ -35,7 +35,7 @@ All solutions are implemented in Python 3.
 ### 3. Time Conversion
 - HackerRank: Accepted
 - Solution: [View Code](./Time-Conversion/solution.py)
-- Screenshot: `Time-.png`
+- Screenshot: `Time-Conversion.png`
 
 ### 4. Compare the Triplets
 - HackerRank: Accepted
