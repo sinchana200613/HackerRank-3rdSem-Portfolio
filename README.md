@@ -45,7 +45,7 @@ All solutions are implemented in Python 3.
 ### 5. Sparse Arrays
 - HackerRank: Accepted
 - Solution: [View Code](./Sparse-Arrays/solution.py)
-- Screenshot: `hackerrank-accepted.png`
+- Screenshot: `Sparse-Arrays.png`
 
 ## HackerRank Badge
 
