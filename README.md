@@ -40,7 +40,7 @@ All solutions are implemented in Python 3.
 ### 4. Compare the Triplets
 - HackerRank: Accepted
 - Solution: [View Code](./Compare-Triplets/solution.py)
-- Screenshot: `hackerrank-accepted.png`
+- Screenshot: `Compare-Triplets.png`
 
 ### 5. Sparse Arrays
 - HackerRank: Accepted
