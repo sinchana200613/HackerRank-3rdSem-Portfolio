@@ -8,7 +8,7 @@ All solutions are implemented in Python 3.
 
 ## HackerRank Profile
 
-[Visit my HackerRank Profile] https://github.com/sinchana200613/HackerRank-3rdSem-Portfolio.git
+[Visit my HackerRank Profile] https://www.hackerrank.com/profile/sinchananagaraj3
 
 ## Problems Completed
 
